@@ -26,7 +26,7 @@ I'm a tech enthusiast and student passionate about **Computer Hardware**, **Soft
 
 - 📧 Email: dilusharadeeshan@gmail.com  
 - 💼 LinkedIn: [Dilusha Radeeshan](www.linkedin.com/in/dilusha-radeeshan-7abaab326)  
-- 🌐 Portfolio: [Portfolio of Me](https://portfolio-dilusha-radeeshan.web.app)
+- 🌐 Portfolio: [Dilusha_Radeeshan - Portfolio](https://portfolio-dilusha-radeeshan.web.app)
 
 ---
 
