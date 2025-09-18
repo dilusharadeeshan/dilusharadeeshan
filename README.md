@@ -16,7 +16,6 @@ I'm a tech enthusiast and student passionate about **Computer Hardware**, **Soft
 
 ## 📈 GitHub Stats
 
-![Dilusha's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilusharadeeshan&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilusharadeeshan&layout=compact&theme=tokyonight)
 
